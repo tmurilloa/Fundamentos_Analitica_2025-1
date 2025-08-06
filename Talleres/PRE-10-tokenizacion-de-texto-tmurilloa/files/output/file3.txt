@@ -1,0 +1,23 @@
+global solar irradiation important variable used
+determine suitability area install solar systems
+nevertheless due limitations requiring measurement
+stations around entire world correlated different
+meteorological parameters confront issue different
+locations rias baixas autonomous community galicia
+spain combinations parameters month average
+temperature among others used develop various
+machine learning models random forest rf support
+vector machine svm artificial neural network ann
+three approaches used model predict one month
+ahead monthly global solar irradiation using data
+six measurement stations afterwards models applied
+seven different measurement stations check
+knowledge acquired could extrapolated locations
+general ann models offered best results
+development testing phases model well phase
+knowledge extrapolation locations sense selected
+anns obtained mean absolute percentage error mape
+value model development overall mape seven
+locations anns capable tool modelling predicting
+monthly global solar irradiation areas data
+available extrapolating knowledge nearby areas

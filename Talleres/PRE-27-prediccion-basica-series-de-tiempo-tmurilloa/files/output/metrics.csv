@@ -1,0 +1,5 @@
+Metrics,yt_pred_time_trend_1_dummy,yt_pred_time_trend_2_dummy,yt_pred_time_trend_3_dummy,yt_pred_mlp_8
+MSE Train,103217.67,78075.48,68044.66,109154.28
+MSE Test,738282.04,190079.09,107356.45,263190.52
+MAE Train,259.03,213.47,202.35,248.99
+MAE Test,804.13,341.66,262.0,309.45

@@ -1,0 +1,26 @@
+It is essential to develop non-precious metal-based alternatives used in 
+hydrogen evolution reaction (HER) due to high cost and scarcity of Pt-based 
+catalysts. Herein, through density functional theory (DFT) calculations, 
+the HER activity over 26 single-atom anchored phosphorus carbide (PC3) 
+monolayer (TM@PC3) has been systematically investigated. Results indicate 
+that ΔG*H of V, Fe, Nb, Mo, and Pd@PC3 are lower than that of Pt (1 1 1) 
+catalyst, with 0.03, −0.03, −0.07, −0.04, and − 0.02 eV, respectively. By 
+imposing the criterion window (−0.2 ≤ ΔG*H ≤ 0.2 eV), the d band centre 
+(εd) for catalysts with excellent HER ability is in the range of − 0.68–0.41 
+eV. Besides, the five promising HER catalysts follow Volmer-Tafel mechanism. 
+Fe, Nb, and Mo@PC3 show activation barriers of 0.75, 0.74, and 0.55 eV, 
+lower than that of Pt. Machine learning (ML) was employed to explore the 
+intrinsic relationship between catalytic performance and feature parameters. 
+We demonstrated that the first ionization energy, bond length of TM − H and 
+d band center are more correlated with hydrogen adsorption behaviour. 
+Our work not only predicts that Fe, Nb, and Mo@PC3 can be substitutes for 
+Pt metal in HER, but also reveals that the intrinsic correlation between 
+catalytic activity and feature parameters by combining DFT and ML 
+investigations.
+
+
+
+
+
+
+

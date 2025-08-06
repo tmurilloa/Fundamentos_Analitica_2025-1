@@ -1,0 +1,1 @@
+# Fundamentos_Analitica_2025-1

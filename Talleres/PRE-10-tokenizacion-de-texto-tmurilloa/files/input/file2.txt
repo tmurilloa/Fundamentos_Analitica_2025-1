@@ -1,0 +1,33 @@
+Electric vehicles are gaining global popularity lately, and along with it, 
+efficient battery thermal management systems (BTMS) are also gaining 
+traction amongst the research community. Phase change material (PCM) based 
+BTMS can be an attractive solution due to its high energy density and 
+isothermal energy exchange. However, pure PCM has some drawbacks like 
+low thermal conductivity, volume expansion, and leakage during phase 
+change. A shape stable composite PCM (SSCPCM) resolves these drawbacks 
+but is an expensive solution due to the high cost of conventional 
+supporting materials. Biochar (BC) based SSCPCM developed in this study 
+can be a cheap and sustainable solution for BTMS. The characterization 
+studies are carried out for combination of pure PCM (Myristyl Alcohol) 
+and biochar at various loadings of 6%, 12%, 18%, and 24% by weight, 
+using Fourier transform infrared analysis (FT-IR), X-ray diffraction 
+(XRD) analysis, scanning electron microscopy (SEM), particle size analysis 
+(PSA), differential scanning calorimetry (DSC), and thermogravimetric 
+analysis (TGA). The shape stability studies reveal that the PCM with 
+minimum of 24% biochar (PCM-BC24) is shape stable. The thermal 
+conductivities and effusivities of pure and shape-stable composite 
+PCMs are also studied. Enhancement in thermal conductivity of 
+PCM-BC24 is studied with the addition of multi-walled carbon 
+nanotubes (MWCNT) in 0.5% and 1% concentrations. FT-IR and XRD 
+results reveal that the interaction of biochar and MWCNT with pure 
+PCM is purely physical and chemically stable. The degree of 
+supercooling is reduced by 19.26%, 23.49%, and 25.17% for 
+PCM-BC24 with 1% MWCNT compared to pure PCM at a heating rate of 5.0, 
+7.5, and 10 °C/min, respectively. Thermal conductivity and effusivity 
+of PCM-BC24 with 1% MWCNT are 458.72% and 146.25% higher than the 
+pure PCM, respectively. The TGA results reveal that PCMs thermal 
+stability is not adversely affected by the addition of BC & MWCNT. 
+Furthermore, an ANFIS model is developed to predict the heat flow (mW/mg) 
+values of PCM samples and found that the generalized bell-shaped input and 
+linear output membership function is best suitable with a coefficient of 
+determination (R2) of 0.971.

@@ -1,0 +1,117 @@
+,node_a,node_b,size
+0,Canada,Australia,2
+1,China,Australia,13
+2,China,Canada,6
+3,Finland,Australia,1
+4,Finland,China,1
+5,France,Australia,1
+6,France,Canada,3
+7,France,China,4
+8,Germany,Australia,3
+9,Germany,Canada,1
+10,Germany,China,3
+11,Germany,Finland,3
+12,Germany,France,5
+13,Greece,Australia,1
+14,Greece,France,1
+15,Greece,Germany,1
+16,Hong Kong,Canada,1
+17,Hong Kong,China,14
+18,India,Canada,2
+19,India,China,2
+20,India,France,1
+21,India,Germany,2
+22,Iran,Australia,1
+23,Italy,Australia,1
+24,Italy,Canada,1
+25,Italy,Finland,1
+26,Italy,France,11
+27,Italy,Germany,5
+28,Italy,Greece,1
+29,Italy,India,1
+30,Italy,Iran,1
+31,Japan,Australia,1
+32,Japan,Canada,6
+33,Japan,China,6
+34,Japan,France,1
+35,Japan,Germany,1
+36,Japan,India,2
+37,Japan,Italy,1
+38,Netherlands,Australia,3
+39,Netherlands,Canada,2
+40,Netherlands,China,1
+41,Netherlands,Finland,1
+42,Netherlands,France,2
+43,Netherlands,Germany,1
+44,Netherlands,Italy,2
+45,Russian Federation,Australia,1
+46,Russian Federation,Canada,1
+47,Russian Federation,China,2
+48,Russian Federation,Finland,1
+49,Russian Federation,France,2
+50,Russian Federation,Germany,3
+51,Russian Federation,India,2
+52,Russian Federation,Italy,2
+53,Russian Federation,Japan,1
+54,Russian Federation,Netherlands,1
+55,Spain,France,6
+56,Spain,Germany,4
+57,Spain,Greece,1
+58,Spain,Italy,4
+59,Spain,Japan,2
+60,Spain,Netherlands,1
+61,Sweden,Australia,1
+62,Sweden,Canada,1
+63,Sweden,China,2
+64,Sweden,Finland,1
+65,Sweden,Germany,3
+66,Sweden,Greece,2
+67,Sweden,India,2
+68,Switzerland,Australia,2
+69,Switzerland,China,1
+70,Switzerland,France,2
+71,Switzerland,Germany,3
+72,Switzerland,Greece,1
+73,Switzerland,Hong Kong,1
+74,Switzerland,Italy,1
+75,Switzerland,Japan,1
+76,Switzerland,Spain,2
+77,Taiwan,Australia,2
+78,Taiwan,Canada,1
+79,Taiwan,China,1
+80,Taiwan,Hong Kong,1
+81,Taiwan,Japan,1
+82,Taiwan,Sweden,1
+83,United Kingdom,Australia,8
+84,United Kingdom,Canada,3
+85,United Kingdom,China,13
+86,United Kingdom,Finland,5
+87,United Kingdom,France,8
+88,United Kingdom,Germany,12
+89,United Kingdom,Greece,2
+90,United Kingdom,India,1
+91,United Kingdom,Italy,12
+92,United Kingdom,Japan,4
+93,United Kingdom,Netherlands,4
+94,United Kingdom,Russian Federation,3
+95,United Kingdom,Spain,7
+96,United Kingdom,Sweden,2
+97,United Kingdom,Switzerland,5
+98,United States,Australia,19
+99,United States,Canada,15
+100,United States,China,47
+101,United States,Finland,2
+102,United States,France,8
+103,United States,Germany,16
+104,United States,Greece,2
+105,United States,Hong Kong,5
+106,United States,India,4
+107,United States,Italy,16
+108,United States,Japan,11
+109,United States,Netherlands,7
+110,United States,Russian Federation,4
+111,United States,Spain,9
+112,United States,Sweden,4
+113,United States,Switzerland,6
+114,United States,Taiwan,1
+115,United States,United Kingdom,31

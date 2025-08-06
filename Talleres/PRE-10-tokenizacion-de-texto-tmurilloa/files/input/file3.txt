@@ -1,0 +1,19 @@
+Global solar irradiation is an important variable that can be used to determine 
+the suitability of an area to install solar systems; nevertheless, due to the 
+limitations of requiring measurement stations around the entire world, it can 
+be correlated with different meteorological parameters. To confront this issue, 
+different locations in Rias Baixas (Autonomous Community of Galicia, Spain) and 
+combinations of parameters (month and average temperature, among others) were 
+used to develop various machine learning models (random forest -RF-, support 
+vector machine -SVM- and artificial neural network -ANN-). These three approaches 
+were used to model and predict (one month ahead) monthly global solar irradiation 
+using the data from six measurement stations. Afterwards, these models were 
+applied to seven different measurement stations to check if the knowledge 
+acquired could be extrapolated to other locations. In general, the ANN models 
+offered the best results for the development and testing phases of the model, 
+as well as for the phase of knowledge extrapolation to other locations. In this 
+sense, the selected ANNs obtained a mean absolute percentage error (MAPE) value 
+between 3.9 and 13.8% for the model development and an overall MAPE between 4.1 
+and 12.5% for the other seven locations. ANNs can be a capable tool for modelling 
+and predicting monthly global solar irradiation in areas where data are available 
+and for extrapolating this knowledge to nearby areas.
